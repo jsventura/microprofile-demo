@@ -1,0 +1,9 @@
+
+### Get Loans
+http://localhost:9082/data/loans/42897521
+
+### Get Customers
+http://localhost:9081/data/customers
+
+### Get Customer Loans
+http://localhost:9080/data/customer-loans
